@@ -1,0 +1,32 @@
+// @import 'bootstrap/dist/css/bootstrap';
+@import './bootstrap';
+
+.navbar {
+  background-color: black !important;  
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.navbar-brand {
+  font-size: 10rem; 
+}
+    
+h1 {    
+  color: green;  
+}
+
+#logo {
+  float: left;
+  font-size: 1.7em;
+  color: #fff !important; 
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+#page-content {
+  flex: 10 auto;
+  background-color: lightgray;
+}

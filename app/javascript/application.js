@@ -2,7 +2,7 @@
 
 import "@hotwired/turbo-rails"
 
-import "popper"
 import "bootstrap"
+import "popper"
 
 import "controllers"
