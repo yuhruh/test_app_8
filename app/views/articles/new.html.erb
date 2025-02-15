@@ -1,8 +1,5 @@
 <% content_for :title, "New article" %>
-<div id='page-content'>
-  <p style="color: green"><%= notice %></p>
+<p style="color: green"><%= notice %></p>
+<h1 class="text-center mt-4">Create a new article</h1>
+<%= render "form", article: @article %>
 
-  <h1 class="text-center mt-4">Create a new article</h1>
-
-  <%= render "form", article: @article %>
-</div>
