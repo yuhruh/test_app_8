@@ -5,7 +5,7 @@ ruby '~>3.4.1'
 gem "dartsass-rails"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem "rails", "~> 8.0.1"
+gem "rails", "~> 8.0.2"
 
 gem "bootstrap", "~> 5.3.3"
 
